@@ -1,0 +1,7 @@
+LDA     00
+STA     0C
+WORD    01
+RESW    02
+BYTE    03
+RESB    04
+END     05
